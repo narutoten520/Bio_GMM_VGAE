@@ -12,11 +12,11 @@ Integrating gaussian mixture model and variational graph autoencoder for gene im
 ![](https://github.com/narutoten520/Bio_GMM_VGAE/blob/b0f8ceea752be2c01063217a98abdd353bf39eea/%E5%9B%BE%E7%89%871.png)
 
 ## Contents
-* [Prerequisites](https://github.com/narutoten520/Bioinformatics_VGAE_SGC#prerequisites)
-* [Example usage](https://github.com/narutoten520/Bioinformatics_VGAE_SGC#example-usage)
-* [Datasets Availability](https://github.com/narutoten520/Bioinformatics_VGAE_SGC#datasets-availability)
-* [License](https://github.com/narutoten520/Bioinformatics_VGAE_SGC#license)
-* [Trouble shooting](https://github.com/narutoten520/Bioinformatics_VGAE_SGC#trouble-shooting)
+* [Prerequisites](https://github.com/narutoten520/Bio_GMM_VGAE/tree/main#prerequisites)
+* [Example usage](https://github.com/narutoten520/Bio_GMM_VGAE/tree/main#example-usage)
+* [Datasets Availability](https://github.com/narutoten520/Bio_GMM_VGAE/tree/main#datasets-availability)
+* [License](https://github.com/narutoten520/Bio_GMM_VGAE/tree/main#license)
+* [Trouble shooting](https://github.com/narutoten520/Bio_GMM_VGAE/tree/main#trouble-shooting)
 
 ### Prerequisites
 
