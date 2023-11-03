@@ -1,0 +1,7 @@
+1. The original human DLPFC and mouse brain data are released on the 10X Visium platform (https://www.10xgenomics.com/resources/datasets), 
+and their processed data are available in the spatialLIBD project (https://github.com/LieberInstitute/spatialLIBD) and 
+Squidpy tutorial (https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_visium_hne.html), respectively.
+
+
+2. The mouse brain data can be obtained from the Squidpy from the link 
+https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_visium_hne.html. 
